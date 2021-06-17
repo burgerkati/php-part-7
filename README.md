@@ -1,7 +1,7 @@
 ## php-part-7 [exercices](https://github.com/HedyKatherine/exosPHP/blob/master/exercicesPHP%23partie7.md)
 
-### exercice 1
-Sur une même page, affichez votre user_agent, l'adresse ip de votre serveur et le nom de votre serveur.
+### exercice_1
+Sur une même page, affichez votre user_agent, l'adresse IP de votre serveur et le nom de votre serveur.
 
 ### exercice_2
 Créez deux variables de session (nom, prénom). Affichez les sur la même page.
