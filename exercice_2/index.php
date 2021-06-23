@@ -1,5 +1,6 @@
 <?php
 session_start();
+// nous pourrions créer ici les variables de session
 ?>
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">

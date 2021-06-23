@@ -9,12 +9,11 @@ session_start();
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PHP pt. 7 exercice_3</title>
   </head>
-  <!-- Créez trois variables de session (nom, prénom et âge). Affichez l'âge sur une autre page en cliquant sur un lien. -->
   <body>
     <?php
     $_SESSION['surname'] = 'Schmidt';
     $_SESSION['name'] = 'Julia';
-    $_SESSION['age'] = '45';
+    $_SESSION['age'] = 45;
     $newPage = fopen('user.php', 'a+');
     fclose($newPage);
     ?>
